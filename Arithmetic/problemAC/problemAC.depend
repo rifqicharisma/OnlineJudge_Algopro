@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726994311 source:e:\ripki alfinnur\codeblocks\pembahasan soal online judge\arithmetic\problemac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
