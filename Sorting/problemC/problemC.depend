@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733198626 source:e:\ripki alfinnur\codeblocks\onlinejudge_algopro\sorting\problemc\main.c
+	<stdio.h>
+	<string.h>
+

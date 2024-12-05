@@ -13,5 +13,6 @@ int main()
 
     fclose(A);
     fclose(B);
+
     return 0;
 }
